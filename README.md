@@ -3,6 +3,17 @@
 
 - 🔭 I’m currently working on GIS and Satellite Imagery systems
 - 🌱 I’m currently learning more about compilers
+- ⚡ I love working with C#, Scala, F# and TypeScript.
+
+
+Open Source stuff:
+
+* [Glob](https://github.com/kthompson/glob) - a C#/.NET File Globbing library
+* [Envelop](https://github.com/kthompson/envelop) - a C#/.NET dependency injection container
+
+Fun stuff:
+* [Game Engine](https://github.com/kthompson/game-engine) - primitive Game Engine written in C# with SDL bindingd
+* [SudokuSolver](https://github.com/kthompson/SudokuSolver) - Sudoku puzzle solver
 
 <!--
 **kthompson/kthompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
