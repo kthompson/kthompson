@@ -12,7 +12,7 @@ Open Source stuff:
 * [Envelop](https://github.com/kthompson/envelop) - a C#/.NET dependency injection container
 
 Fun stuff:
-* [Game Engine](https://github.com/kthompson/game-engine) - primitive Game Engine written in C# with SDL bindingd
+* [Game Engine](https://github.com/kthompson/game-engine) - primitive Game Engine written in C# with SDL bindings
 * [SudokuSolver](https://github.com/kthompson/SudokuSolver) - Sudoku puzzle solver
 
 <!--
